@@ -13,9 +13,9 @@ author: YongMin-Kim
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   Career: "career"
-  이름정하는중: "algorithm"
-  Algorithm: "blog"
-  Project: "project"
+  Plan: "plan"
+  Algorithm: "blog"  # 실제로 알고리즘은 blog라는 폴더에 정리할꺼임.. (여러개 글쓰기가능)
+  Project: "project" # 프로젝트 한거는 project라는 폴더에 정리(언젠가는 해야지)....
   GitHub: "https://github.com/yongminkim990714"
   Google Scholar: #"https://scholar.google.com/citations?user=seokhoson"
 
