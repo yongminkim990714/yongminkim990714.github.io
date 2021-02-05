@@ -2,7 +2,7 @@
 layout: post
 title: Kubernetes Forum 2019 Speaker
 subtitle: 쿠버네티스 포럼 2019 발표
-gh-repo: seokho-son/seokho-son.github.io
+gh-repo: yongminkim990714/yongminkim990714.github.io
 gh-badge: [star, fork, follow]
 tags: [Kubernetes, seokho son, localization, open source]
 comments: true
