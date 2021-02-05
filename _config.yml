@@ -37,8 +37,8 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "min99713@naver.com"
-  facebook: https://www.facebook.com/profile.php?id=100013952478460
-  github: yongminkim990714
+  facebook: "https://www.facebook.com/profile.php?id=100013952478460"
+  github: "https://github.com/yongminkim990714"
 # linkedin: yongmin-kim
 #  twitter: daattali
 #  rss: true
@@ -46,7 +46,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: yong__min_kim
+  instagram: "https://www.instagram.com/yong__min_kim/"
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
