@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Student
-subtitle: Business, Studying Python
-cover-img: /assets/img/yongmin-kim.jpg
+title: YongMin Kim Blog
+subtitle: Business, Studying Computer Alone
+cover-img: /assets/img/index-image.jpg
 ---
 
 <br/>
