@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [Kubernetes, seokho son, localization, open source]
 comments: true
 ---
-
+<script src="https://gist.github.com/yongminkim990714/cdc450f1fa41afb850c346094cd0a1e8.js"></script>
 Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))의 국제 행사인 [쿠버네티스 포럼 2019](https://www.cncf.io/announcement/2019/10/17/cloud-native-computing-foundation-announces-schedule-for-kubernetes-forums-in-seoul-and-sydney/)에서
 
 
